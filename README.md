@@ -34,7 +34,7 @@ Real-time object detection application using OpenCV and YOLO, with both Python a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/opencam.git
+git clone https://github.com/ZockerKatze/opencam.git
 cd opencam/opencamcpp
 ```
 
