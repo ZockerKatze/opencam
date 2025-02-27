@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=OpenCam
+Comment=Real-time object detection using OpenCV and YOLO
+Exec=opencam
+Icon=opencam
+Categories=Graphics;Video;
+Keywords=camera;detection;opencv;yolo;
+Terminal=false
+StartupNotify=true 

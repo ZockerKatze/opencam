@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+
+# C++ build
+build/
+out/
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+
+# AppImage specific
+*.AppImage
+AppDir/
+
+# Large model files and datasets
+*.weights
+*.h5
+*.pt
+*.onnx
+
+# Temporary files
+*.log
+*.tmp
+
+# Qt specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# OpenCV build artifacts
+opencv/
+opencv_build/
+
+# System specific
+.DS_Store
+Thumbs.db 
