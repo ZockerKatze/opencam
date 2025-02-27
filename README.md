@@ -104,7 +104,7 @@ Download the weights file from: https://pjreddie.com/media/files/yolov3.weights
 
 ## License
 
-[Your chosen license]
+MiT
 
 ## Contributing
 
